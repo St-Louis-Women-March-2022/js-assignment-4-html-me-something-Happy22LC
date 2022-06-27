@@ -4,6 +4,7 @@ p {
 }
 body {
     margin: 8px;
+    display: block;
 }
 div { 
     padding: 15px;
