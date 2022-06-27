@@ -1,1 +1,20 @@
 /* Write your CSS here! */
+p {
+    background-color: rgb(191, 199, 138);
+}
+body {
+    margin: 8px;
+}
+div { 
+    padding: 15px;
+    
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: green;
+}
+  
